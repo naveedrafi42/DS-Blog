@@ -38,7 +38,7 @@ All code required for this project is encapsulated within the notebook cells inc
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available <insert link to blog>
+The main findings of the code can be found at the post available [here](https://medium.com/@naveedrafi/need-to-write-a-lot-of-code-background-music-is-here-to-help-6f49b6e7179e)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
